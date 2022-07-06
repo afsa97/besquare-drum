@@ -7,7 +7,7 @@ import ride from "./sounds/ride.wav";
 import snare from "./sounds/snare.wav";
 import tink from "./sounds/tink.wav";
 import tom from "./sounds/tom.wav";
-
+//try
 //changing game mode and app mode
 let app_mode = "";
 const start_game_btn = document.getElementById("start_game");
